@@ -1,6 +1,6 @@
 name: CMake_Linux_Clang
 
-on: [pull_request]
+on: [push]
 
 
 jobs:
